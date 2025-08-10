@@ -1,4 +1,5 @@
 id,slug,name,startTime,endTime,signupDeadline,medium,website,tagline,city,prize,prizeCount,totalTeamCount,awardedTeamCount,finalistTeamCount,sponsorCount
+221,unite,Unite Defi,2025-07-25T16:00:00.000Z,2025-08-08T00:00:00.000Z,2025-07-28T18:00:00.000Z,virtual,null,Think beyond limits: shape boundless Web3,null,526000,95,391,42,7,4
 169,cannes,ETHGlobal Cannes,2025-07-04T00:00:00.000Z,2025-07-06T00:00:00.000Z,2025-07-03T07:00:00.000Z,physical,null,null,"Cannes, FR",255000,96,333,137,10,28
 168,prague,ETHGlobal Prague,2025-05-30T00:00:00.000Z,2025-06-01T00:00:00.000Z,2025-05-29T13:00:00.000Z,physical,null,null,"Prague, CZ",140001,57,217,124,10,14
 167,taipei,ETHGlobal Taipei,2025-04-04T00:00:00.000Z,2025-04-06T00:00:00.000Z,2025-04-03T01:00:00.000Z,physical,null,null,"Taipei, TW",175000,72,226,129,8,18
