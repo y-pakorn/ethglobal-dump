@@ -32,14 +32,14 @@ id,slug,name,startTime,endTime,signupDeadline,medium,website,tagline,city,prize,
 53,tokyo,ETHGlobal Tokyo,2023-04-14T00:00:20.820Z,2023-04-16T09:00:44.284Z,2023-04-04T14:59:03.075Z,physical,null,null,"Tokyo, JP",373448,382000,435,537,311,215,11,36
 55,scaling2023,Scaling Ethereum 2023,2023-03-10T14:00:23.896Z,2023-03-31T22:00:00.000Z,2023-03-09T04:59:00.000Z,virtual,null,null,null,191294,199500,275,278,307,175,11,17
 52,spacewarp,FVM Space Warp,2023-01-20T14:00:00.000Z,2023-02-10T23:00:00.000Z,2023-01-20T04:59:00.256Z,virtual,null,FVM SPACE WARP HACKATHON,null,140710,70500,71,72,276,55,12,6
-42,ethindia2022,ETHIndia 2022,2022-12-02T05:00:00.000Z,2022-12-04T05:00:00.000Z,2022-11-21T05:00:00.000Z,physical,https://ethindia.co,Asia’s Biggest Ethereum Hackathon,"Bengaluru, IN",334404,375500,556,2068,460,266,12,38
+42,ethindia2022,ETHIndia 2022,2022-12-02T05:00:00.000Z,2022-12-04T05:00:00.000Z,2022-11-21T05:00:00.000Z,physical,https://ethindia.co,Asia’s Biggest Ethereum Hackathon,"Bengaluru, IN",334379,375500,556,587,460,266,12,38
 39,hackfevm,Hack FEVM,2022-11-18T05:00:00.000Z,2022-11-20T05:00:00.000Z,2022-11-16T05:00:00.000Z,virtual,https://fevm.ethglobal.com/,Be the First to Build,null,57500,57500,28,29,117,21,9,1
 38,ethsanfrancisco2022,ETHSanFrancisco 2022,2022-11-04T04:00:00.000Z,2022-11-06T04:00:00.000Z,2022-10-24T04:00:00.000Z,physical,https://sf.ethglobal.com/,null,"San Francisco, US",347431,355000,330,338,287,180,13,34
 37,ethbogota,ETHBogotá,2022-10-07T04:00:00.000Z,2022-10-09T04:00:00.000Z,2022-09-26T04:00:00.000Z,physical,https://bogota.ethglobal.com,null,"Bogota, CO",409933,429000,379,379,215,162,12,40
 36,ethonline2022,ETHOnline 2022,2022-09-02T16:00:00.000Z,2022-09-28T23:00:00.000Z,2022-08-31T04:00:00.000Z,virtual,https://online.ethglobal.com,Build the decentralized web,null,345009,361000,497,497,363,230,14,35
 35,ethmexico,ETHMexico,2022-08-19T04:00:00.000Z,2022-08-21T04:00:00.000Z,2022-08-08T04:00:00.000Z,physical,https://mexico.ethglobal.com,ETHGlobal returns to Latin America,"Mexico City, MX",216160,200000,115,126,94,64,12,13
 41,metabolism,Metabolism,2022-08-04T04:00:00.000Z,2022-08-10T04:00:00.000Z,2022-11-21T05:00:00.000Z,virtual,https://zora.ethglobal.com,Build the future creative on-chain ecosystem,null,48270,48500,82,74,106,55,8,5
-34,hackfs2022,HackFS 2022,2022-07-08T04:00:00.000Z,2022-07-29T04:00:00.000Z,2022-07-06T04:00:00.000Z,virtual,https://ethglobal.com/events/hackfs2022,Build the decentralized web,null,150154,214000,230,30235,196,115,10,16
+34,hackfs2022,HackFS 2022,2022-07-08T04:00:00.000Z,2022-07-29T04:00:00.000Z,2022-07-06T04:00:00.000Z,virtual,https://ethglobal.com/events/hackfs2022,Build the decentralized web,null,195145,214000,230,240,196,115,10,16
 33,ethnewyork2022,ETHNewYork 2022,2022-06-24T04:00:00.000Z,2022-06-26T04:00:00.000Z,2022-06-13T04:00:00.000Z,physical,https://nyc.ethglobal.com/,Build the decentralized web,null,429784,443500,427,424,243,180,10,42
 31,hackmoney2022,HackMoney 2022,2022-05-06T04:00:00.000Z,2022-05-27T04:00:00.000Z,2022-05-04T04:00:00.000Z,virtual,https://defi.ethglobal.com/,Build the decentralized web,null,0,311000,0,258,0,0,0,41
 25,ethamsterdam,ETHAmsterdam,2022-04-22T04:00:00.000Z,2022-04-24T04:00:00.000Z,2022-04-18T04:00:00.000Z,physical,https://amsterdam.ethglobal.com/,Build the decentralized web,null,332491,392500,185,186,167,99,13,43
