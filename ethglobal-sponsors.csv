@@ -1,338 +1,338 @@
-id,slug,name,website,twitter,appearances,prize,prizeCount,advertisedPrize,advertisedPrizeCount,workshopCount,largestPrize
-11,1inch,1inch,https://1inch.io/,1inch,16,481000,153,764500,219,2,12000
-55104,etherlink,Etherlink,https://www.etherlink.com/,etherlink,1,10000,3,10000,3,0,5000
-58188,stellar,Stellar,https://stellar.org/,StellarOrg,1,10000,3,10000,3,0,5000
-2063,near,NEAR,https://near.org/,NEARProtocol,11,93000,47,96000,48,0,5000
-42702,layerzero,LayerZero,https://layerzero.network/,LayerZero_Core,9,135000,35,135000,35,0,13000
-29376,world,World,https://world.org,worldcoin,23,455649,717,446000,733,5,10000
-44228,oasis-protocol,Oasis Protocol,https://oasis.net,OasisProtocol,4,30000,14,34000,15,1,5000
-46224,zircuit,Zircuit,https://www.zircuit.com/,ZircuitL2,5,40000,21,40000,21,2,3500
-592,chainlink,Chainlink,https://chain.link/,chainlink,22,163000,149,168000,131,5,4000
-44575,flare-network,Flare Network,https://dev.flare.network/,FlareNetworks,4,40000,19,40000,19,1,7000
-1748,ledger,Ledger,https://ledger.com,Ledger,4,27500,12,33750,12,1,5000
-42542,flow-foundation,Flow Foundation,https://flow.com/,flow_blockchain,7,83500,54,88000,56,3,4000
-623,circle,Circle,https://circle.com,circle,7,66500,36,70000,33,3,2500
-1103,ens,ENS,https://ens.domains,ensdomains,19,144985,199,147000,195,2,3500
-52174,walrus,Walrus,https://www.walrus.xyz/,WalrusProtocol,2,20000,10,20000,10,1,2000
-3033,the-graph,The Graph,https://thegraph.com,graphprotocol,28,187791,295,212050,283,10,3500
-55792,self-protocol,Self Protocol,https://self.xyz/,selfprotocol,2,20000,9,20000,9,1,5000
-56852,artificial-superintelligence-alliance,Artificial Superintelligence Alliance,https://superintelligence.io/,ASI_Alliance,1,10000,3,10000,3,1,5000
-39732,hedera,Hedera,https://hedera.com/,hedera,6,54500,33,57000,34,0,4000
-42975,avail,Avail,https://www.availproject.org/,availproject,10,44000,51,61000,57,1,2500
-40316,privy,Privy ,https://www.privy.io/,privy_io,9,31000,34,33500,34,3,2500
-51947,saga,Saga ,https://saga.xyz,Sagaxyz__,2,10000,6,10000,6,0,2500
-1441,hardhat,Hardhat,https://hardhat.org/,HardhatHQ,2,5000,3,5000,3,0,1666.67
-36727,intmax,Intmax,https://intmax.io/intmax-developers_hub,intmaxIO,4,15000,7,15000,7,3,3000
-45113,euler-labs,Euler Labs,https://www.euler.finance/,eulerfinance,2,10000,5,10000,5,0,3000
-36718,mantle,Mantle,https://www.mantle.xyz/,Mantle_Official,11,89500,125,90000,125,5,2500
-56283,ronin,Ronin,https://roninchain.com/,ronin_network,1,5000,3,5000,3,0,2500
-1147,ethereum-foundation,Ethereum Foundation,https://ethereum.foundation,ethereumfndn,13,109213,68,118213,68,3,4000
-51472,0g,0G,https://0g.ai ,0G_labs,2,5000,7,7500,8,1,1666.67
-57316,katana,katana,https://katana.network/,katana,1,3750,3,5000,3,0,1500
-1264,fluence,Fluence,https://fluence.network/,fluence_project,5,8500,10,34000,11,1,3000
-44337,blockscout,Blockscout,https://www.blockscout.com/,blockscoutcom,4,64999,545,65000,545,0,3000
-46978,pyth-network,Pyth Network,https://pyth.network/,PythNetwork,5,53000,38,55000,40,1,4000
-53226,vlayer-labs,vlayer Labs ,https://www.vlayer.xyz/,vlayer_xyz,2,20000,8,20000,8,2,4000
-49164,rootstock-labs,Rootstock Labs,https://rootstock.io/,rootstock_io,7,70000,27,70000,27,2,5000
-54479,yellow,Yellow,https://yellow.org,Yellow,1,10000,5,10000,5,1,4000
-48547,beraborrow,Beraborrow,https://www.beraborrow.com/,beraborrow,1,5000,2,5000,2,1,2500
-1640,protocol-labs,Protocol Labs,https://www.plnetwork.io/,protocollabs,31,646759,513,781010,588,9,15000
-53954,nodit,Nodit,https://nodit.io/,NoditPlatform,1,10000,5,10000,5,1,3000
-2401,polygon,Polygon,https://polygon.technology/,0xPolygon,27,608269,742,634000,738,6,5000
-52430,hashkey-chain,HashKey Chain,https://hsk.xyz,HashKeyHSK,1,10000,5,10000,5,1,3000
-32731,hyperlane,Hyperlane,https://www.hyperlane.xyz,hyperlane,16,153500,79,156000,73,3,4000
-571,celo,Celo,https://www.celo.org,celo,10,96500,96,100000,100,4,4000
-49197,citrea,Citrea,https://citrea.xyz,citrea_xyz,1,10000,4,10000,4,1,3000
-825,curvegrid,Curvegrid,http://www.curvegrid.com,curvegridinc,5,18000,17,18000,17,3,3000
-31429,uniswap-foundation,Uniswap Foundation,https://www.uniswapfoundation.org,UniswapFND,16,218500,108,291000,112,3,6000
-55171,metal,Metal,https://metal.build/,metaldotbuild,1,5000,2,5000,2,1,4000
-1155,ethglobal,ETHGlobal,https://ethglobal.com,ETHGlobal,1,1285000,535,37500,9,0,2500
-55135,recall,Recall,https://recall.network/,recallnet,1,0,3,5000,3,0,null
-2081,nethermind,Nethermind,https://www.nethermind.io/,NethermindEth,10,88000,62,93000,62,4,6000
-55211,aztec,Aztec,https://aztec.network/,aztecnetwork,1,0,2,2500,2,0,null
-51661,brevis,Brevis,https://brevis.network/,brevis_zk,2,10000,8,12500,8,1,4000
-31546,aleo,Aleo,https://www.aleo.org/,AleoHQ,3,13000,13,17500,9,2,3000
-40577,succinct,Succinct,https://Succinct.xyz,null,1,0,3,2500,3,0,null
-47319,nillion,Nillion,https://www.nillion.com/,nillionnetwork,6,30000,23,32500,23,2,3000
-50787,altlayer,AltLayer,https://www.altlayer.io/,null,1,0,3,2500,3,0,null
-36330,coinbase,Coinbase,https://coinbase.com/developer-platform,coinbasedev,6,50001,375,70500,407,1,5000
-55686,t1-protocol,t1 Protocol,https://www.t1protocol.com/,t1protocol,1,0,2,2500,2,0,null
-55794,zk-email,ZK Email,https://zk.email/,zkemail,1,0,4,2500,5,0,null
-1854,marlin,Marlin,https://marlin.org,MarlinProtocol,2,5000,5,7500,5,1,2000
-54130,autonome,Autonome,https://www.autono.meme/,0xAutonome,1,20000,9,20000,9,1,4000
-34522,eigenlayer,EigenLayer,https://www.eigenlayer.com/,eigenlayer,1,20000,12,20000,12,0,1666.67
-54517,gaia-and-collab-land,Gaia and Collab.Land,https://gaianet.ai,GaiaNet_AI,1,10000,8,10000,8,1,2500
-206,arbitrum,Arbitrum,https://arbitrum.io/,arbitrum,8,150000,387,150000,387,0,4000
-37396,base,Base,https://www.base.org/,base,11,120000,72,120000,72,1,4000
-51436,warden-protocol,Warden Protocol,https://wardenprotocol.org/,wardenprotocol,1,0,0,5000,5,1,null
-763,covalent,Covalent,https://www.covalenthq.com/,Covalent_HQ,11,55050,236,58700,210,4,3000
-54307,opsec,OpSec,https://www.opsec.computer,OpSecCloud,1,5000,5,5000,5,1,1000
-1783,lit-protocol,Lit Protocol,https://litprotocol.com/,LitProtocol,14,74500,84,77000,84,7,5000
-54262,crestal-network,Crestal Network,https://www.crestal.network/,crestalnetwork,1,200,1,1000,3,0,200
-154,amazon-web-services-aws,Amazon Web Services (AWS),https://aws.amazon.com/web3,awscloud,1,1000,1,1000,1,1,1000
-49541,coophive,CoopHive,https://www.coophive.network/,CoopHive,2,5000,5,6000,7,0,1250
-51516,bitkub,Bitkub,https://www.bitkubcapital.com/,bitkubgroup,1,20000,6,20000,6,0,5000
-46802,kinto,Kinto,https://kinto.xyz/,https://twitter.com/KintoXYZ,2,30000,13,30000,13,1,7500
-31225,scroll,Scroll,https://scroll.io,Scroll_ZKP,11,144775,838,145000,839,5,4000
-24230,mina-protocol,Mina Protocol,https://minaprotocol.com/,@MinaProtocol ,12,182989,76,186000,76,4,8000
-1163,sign-protocol,Sign Protocol,https://sign.global/,ethsign,5,94000,145,96000,145,1,4000
-42925,dynamic,Dynamic,https://www.dynamic.xyz/,dynamic_xyz,7,53000,91,53000,91,1,2000
-41856,chronicle-protocol,Chronicle Protocol,https://chroniclelabs.org/,ChronicleLabs,4,39500,58,39500,58,1,4500
-606,chiliz,Chiliz,https://www.chiliz.com/developers/,Chiliz,4,60000,100,60000,100,3,4000
-1119,push-protocol,Push Protocol,https://push.org,pushprotocol,16,120468,228,125000,231,7,4000
-31228,cow-protocol,CoW Protocol,https://cow.fi/,CoWSwap,3,29400,17,29400,17,1,5000
-45759,inco-network,Inco Network,https://www.inco.org/,inconetwork,2,20000,10,20000,10,0,3000
-31645,neon-evm,Neon EVM,https://neonevm.org/,Neon_EVM,8,50500,61,60000,66,1,3000
-31227,cartesi,Cartesi,https://cartesi.io/,cartesiproject,8,79000,31,80000,30,0,7000
-27595,xmtp,XMTP,https://xmtp.org/,xmtp_,14,105949,222,107400,221,2,2500
-41511,phala-network,Phala Network,https://phala.network/,PhalaNetwork,3,20000,11,20000,11,0,3000
-45112,essential,Essential,https://blog.essential.builders/,intentessential,2,20000,5,20000,5,2,8000
-3089,web3auth,Web3Auth,https://web3auth.io,web3auth,6,51000,29,57500,30,2,7000
-52594,rome-protocol,Rome Protocol,https://www.rome.builders/,romeprotocol,1,10000,5,10000,5,0,3000
-335,biconomy,Biconomy,https://www.biconomy.io/,Biconomy,5,41498,51,41500,51,0,3000
-53025,bitdsm,BitDSM,http://bitdsm.org,hammadtariq,1,7000,3,7000,3,0,3000
-40890,fhenix,Fhenix,https://www.fhenix.io/,FhenixIO,6,30000,20,30000,20,6,2500
-44597,arx,Arx,https://arx.org,arxresearch,2,10000,7,10000,7,2,2500
-1782,liquity,Liquity,https://liquity.org,LiquityProtocol,1,5000,2,5000,2,0,4500
-48302,morph,Morph,https://www.morphl2.io/,MorphL2,6,35000,22,35000,22,3,3000
-1906,metamask-and-linea,MetaMask & Linea,https://metamask.io/,LineaBuild,11,105500,86,109000,88,7,3500
-2429,powerloom,PowerLoom,https://powerloom.io,PowerLoomHQ,5,15500,12,32000,14,0,4000
-39733,nounsdao,NounsDAO,https://nouns.wtf/,nounsdao,5,25000,45,25000,15,1,2500
-1383,gnosis,Gnosis,https://gnosis.io,null,1,4000,5,4000,5,0,1000
-40370,axelar,Axelar,https://axelar.network/,axelar,4,19000,12,19000,12,1,3000
-37737,blockless,Blockless,https://blockless.network/,theblockless,3,4000,6,4000,6,2,825
-52727,venn,Venn,https://venn.build/,VennBuild,1,1000,1,1000,1,0,1000
-543,capsule,Capsule,https://usecapsule.com,usecapsule,1,1000,1,1000,1,0,1000
-52943,kinode,Kinode,https://Kinode.org,Kinode,1,0,0,0,0,0,null
-53441,hyperbolic,Hyperbolic,https://hyperbolic.xyz/,hyperbolic_labs,1,1000,2,1000,2,0,500
-2774,skale-network,SKALE Network,https://skale.space/,SkaleNetwork,6,108475,89,108000,89,1,5000
-42084,story,Story,https://www.story.foundation/,storyprotocol,1,20000,23,20000,23,1,2000
-49679,airdao,AirDAO,https://airdao.io/,airdao_io,2,14000,6,40000,21,0,5000
-27264,gnosis-chain,Gnosis Chain,https://www.gnosis.io,gnosischain,16,161750,107,180000,113,6,8000
-41473,unlimit,UNLIMIT,https://www.unlimit.com/,unlimit_crypto,4,35000,15,35000,15,0,6000
-120,alchemy,Alchemy,https://www.alchemy.com/,AlchemyPlatform,3,13000,8,16500,8,1,2500
-39303,delv,DELV,https://www.delv.tech/,delv_tech,2,10500,5,12000,6,1,3000
-42274,stackr,Stackr,https://www.stackrlabs.xyz/,null,2,6000,6,6000,6,0,1000
-24232,reown,Reown,https://reown.com/,reown_,10,152500,146,162000,158,4,5000
-51958,gaia,Gaia,https://www.gaianet.ai,Gaianet_AI,1,5000,3,5000,3,1,2500
-2121,galadriel,Galadriel,https://www.galadriel.com/,Galadriel_AI,11,65815,317,67000,254,5,5000
-42016,ssv-network,SSV Network,https://ssv.network/,ssv_network,2,5000,5,25000,10,1,2000
-3019,tableland,Tableland,https://tableland.xyz/,tableland,7,32990,156,33000,142,3,2500
-31584,dimo,DIMO,https://dimo.zone/,DIMO_Network,1,5000,5,5000,5,0,1000
-51244,envio,Envio,https://envio.dev/,envio_indexer,1,5000,5,5000,5,1,1500
-2240,optimism,Optimism,https://optimism.io,optimism,12,211087,222,208500,226,2,8000
-49507,superform,Superform,https://www.superform.xyz/,superformxyz,1,10000,4,10000,5,0,4000
-40466,ethereum-attestation-service,Ethereum Attestation Service,https://attest.sh,eas_eth,5,35000,23,35000,23,2,4000
-42909,conduit,Conduit,https://conduit.xyz/,conduitxyz,1,10000,3,10000,3,0,5000
-1298,fraxtal,Fraxtal,https://frax.com/,fraxfinance,1,10000,3,10000,3,0,5000
-50917,metal-l2,Metal L2,https://metall2.com/,metal_L2,1,1000,1,10000,10,0,1000
-42848,mode,Mode,https://docs.mode.network/,modenetwork,2,15000,90,15000,90,0,2000
-3005,tenderly,Tenderly,https://tenderly.co/,TenderlyApp,3,15000,9,15000,9,1,2500
-40879,goldsky,Goldsky,https://goldsky.com/,goldskyio,1,5000,3,5000,3,1,2500
-36210,thirdweb,thirdweb,https://thirdweb.com/,thirdweb,1,5000,2,5000,2,0,2500
-43787,farcaster,Farcaster,https://www.farcaster.xyz/,farcaster_xyz,1,5000,3,5000,3,0,2500
-40490,pancakeswap,PancakeSwap,https://pancakeswap.finance/,PancakeSwap,2,17500,7,23000,7,2,4000
-34391,safe,Safe,https://safe.global/,safe,11,105258,71,105000,68,1,3043
-33783,apecoin-foundation,ApeCoin Foundation,https://apecoin.com/,apecoin,12,120000,56,120000,56,0,3500
-3400,zerion,Zerion,https://zerion.io,zerion,2,12000,5,14000,5,0,4000
-49472,gear-foundation,Gear Foundation,https://gear.foundation/,null,1,2500,3,5000,3,1,1500
-49431,circles,Circles,https://www.aboutcircles.com/,aboutcircles,1,7000,3,4000,3,0,3000
-2888,starkware,StarkWare,https://starkware.co/,StarkWareLtd,4,69000,25,80000,27,3,10000
-43666,starknet-foundation,Starknet Foundation,https://www.starknet.org/,StarknetFndn,2,5000,3,30000,4,0,2500
-42345,cartridge,Cartridge,https://cartridge.gg/,cartridge_gg,1,15000,7,15000,7,0,3333.33
-49779,voyager,Voyager,https://voyager.online/,0xvoyageronline,1,6000,23,6000,23,0,260.87
-44691,token-flow,Token Flow,https://tokenflow.live/,_token_flow,1,3667,3,5000,5,0,1500
-37226,herodotus,Herodotus ,https://herodotus.dev/,HerodotusDev,1,3000,2,5000,3,0,1500
-213,argent,Argent,https://www.argent.xyz/,argentHQ,1,1000,2,3000,3,0,500
-31641,mona,Mona,https://monaverse.com/,monaverse,4,15000,8,21000,14,1,5000
-49106,lilypad,Lilypad,https://docs.lilypad.tech/lilypad,Lilypad_tech,2,7100,6,7500,7,2,2500
-1526,huddle01,Huddle01,https://huddle01.com,huddle01com,6,21700,22,27000,25,2,2500
-40807,squid-router,Squid Router,https://www.squidrouter.com/,null,1,5000,3,5000,3,0,2500
-34526,zondax,Zondax,https://zondax.ch/,_zondax_,2,6500,9,6500,9,1,2500
-45150,weatherxm,WeatherXM,https://weatherxm.com/,WeatherXM,1,5000,3,5000,3,0,2500
-38847,fleek,Fleek,https://fleek.xyz/,fleek,1,500,22,5000,25,0,22.73
-593,chainsafe,ChainSafe,https://chainsafe.io,ChainSafeth,3,1000,1,8000,6,1,1000
-49117,dabl-club,dabl.club,https://www.dabl.club/,DablClub,1,5000,6,5000,6,0,1250
-41880,openmesh,Openmesh,https://www.openmesh.network/,OpenmeshNetwork,1,1000,1,2500,3,0,1000
-37832,risc-zero,RISC Zero,https://www.risczero.com/,https://twitter.com/RiscZero,2,14000,14,15000,15,2,2000
-47778,witness,Witness,https://Witness.co,WitnessCo_,1,1000,2,1000,2,0,500
-2364,pinata,Pinata,https://www.pinata.cloud/,pinatacloud,2,14000,5,14000,5,0,5000
-48293,bountycaster,Bountycaster,https://www.bountycaster.xyz/,bountycaster,1,0,0,0,0,0,null
-1788,livepeer,Livepeer,https://livepeer.org,Livepeer,15,153900,88,125000,74,4,6000
-48354,frames-js,frames.js,https://framesjs.org/,frames_js,1,4269,3,4269,3,0,2048
-36098,airstack,Airstack,https://www.airstack.xyz/,airstack_xyz,7,63500,48,63500,50,0,3000
-48656,karma3labs,Karma3Labs,https://karma3labs.com,karma3labs,1,3500,7,3500,7,0,500
-44251,neynar,Neynar,https://neynar.com,neynarxyz,1,0,0,0,0,0,null
-288,aztec-labs,Aztec Labs,https://aztec.network,aztecnetwork,6,48000,23,49000,22,4,7500
-1255,flashbots,Flashbots,https://flashbots.net,flashbotsmev,4,22500,19,25000,21,2,2500
-43320,morpho-labs,Morpho Labs,https://morpho.org/,@MorphoLabs,1,1000,1,1000,1,0,1000
-1647,ironfish,Ironfish,https://ironfish.network/,ironfishcrypto,1,5000,3,5000,3,0,1666.67
-44716,sindri,Sindri,https://www.sindri.app/,SindriLabs,1,5000,4,5000,4,1,2000
-36842,privacy-and-scaling-exploration,Privacy and Scaling Exploration,https://pse.dev/,privacyscaling,1,5000,5,5000,5,0,1000
-41,aave,Aave,https://aave.com/,aave,1,50000,16,50000,16,0,10000
-47007,family,Family,https://family.co/,family,1,5000,64,5000,64,0,78.13
-41506,xdc-network,XDC Network,https://xinfin.org,XinFin_Official,4,38200,19,40000,21,2,4500
-45117,waku,Waku,https://waku.org/,Waku_org,2,20000,14,20000,14,0,4000
-34521,okto,Okto,https://okto.tech,okto_app,2,10000,6,10000,6,1,3000
-895,alliance,Alliance,https://alliance.xyz/,alliancedao,2,10000,6,10000,6,2,5000
-40914,okx,OKX,https://www.okx.com/web3,okxweb3,1,5000,3,5000,3,1,3000
-40326,zetachain,ZetaChain,https://www.zetachain.com/,zetablockchain,2,15000,6,15000,6,1,5000
-22933,lighthouse,Lighthouse,https://www.lighthouse.storage/,@LighthouseWeb3,4,30000,19,10000,9,1,2500
-1844,spark,Spark,https://spark.fi/,sparkdotfi,6,57000,25,77000,26,2,5000
-23281,lens-protocol,Lens Protocol,https://lens.xyz/,LensProtocol,13,242000,132,222000,132,6,25000
-36437,zksync,ZKsync,https://zksync.io/,zksync,3,21000,9,25000,9,1,5000
-42,aave-grants-dao,Aave Grants DAO,https://aavegrants.org/,aavegrants,10,99000,47,128000,47,3,7500
-3161,uma,UMA,https://umaproject.org,UMAprotocol,15,131000,109,136000,111,6,6000
-41534,axiom,Axiom,https://www.axiom.xyz/,axiom_xyz,2,20000,10,20000,10,0,5000
-186,api3,API3,https://api3.org/,API3DAO,1,10000,5,10000,5,1,4000
-31632,mask-network,Mask Network,https://mask.io/,realMaskNetwork,4,30800,19,39000,23,0,3000
-24233,gearbox-protocol,Gearbox Protocol,https://gearbox.fi/,GearboxProtocol,3,25000,9,33000,10,1,7000
-570,celestia,Celestia,https://celestia.org/developer-portal/,CelestiaOrg,1,5500,5,8000,5,0,2000
-31696,threshold,Threshold,https://threshold.network/,TheTNetwork,1,5000,4,5000,4,0,1250
-33404,certora,Certora,https://www.certora.com/,certorainc,1,5000,3,5000,3,0,2500
-3171,unicef,UNICEF,https://www.unicef.org/innovation/,unicefinnovate,1,4000,1,4000,1,0,4000
-42903,wormhole,Wormhole,https://wormhole.com/,wormholecrypto,1,10000,3,10000,3,1,6000
-2770,sismo,Sismo,https://sismo.io/,Sismo_eth,7,40000,27,45000,27,3,3000
-723,connext,Connext,https://connext.network,connextnetwork,7,33600,48,47000,50,4,5000
-709,compound-grants,Compound Grants,https://questbook.app,compoundgrants,4,27000,16,27000,16,3,5000
-43822,cometh-io,Cometh.io,https://cometh.io/,@Cometh,1,5000,3,5000,3,1,3000
-31690,sunscreen,Sunscreen,https://sunscreen.tech/,sunscreentech,1,3250,3,5000,4,1,1250
-25500,quicknode,QuickNode,https://www.quicknode.com/,https://twitter.com/quicknode,8,36000,35,38000,135,5,2500
-31475,fuel,Fuel,https://fuel.network,fuel_network,5,19500,8,33000,14,3,5000
-3209,unlock-protocol,Unlock Protocol,https://unlock-protocol.com,unlockprotocol,6,28000,54,29000,18,4,3000
-3413,zora,Zora,https://ourzora.com,ourZora,2,24000,32,24000,13,0,2000
-34426,zkbob,zkBob,https://www.zkbob.com/,zkBob_,4,40000,36,40000,34,0,5000
-204,aragon,Aragon,https://aragon.org/,aragonproject,1,5000,2,5000,2,0,2500
-31582,dfns,Dfns,https://www.dfns.co/,dfnsHQ,1,5000,5,5000,6,1,2000
-2489,quantstamp,Quantstamp,https://quantstamp.com/,Quantstamp,2,10000,4,10000,4,0,2500
-40332,unsheth-xyz,unshETH.xyz,https://unsheth.xyz,unsheth_xyz,1,4000,2,5000,3,0,3000
-1487,highlight,Highlight,https://highlight.xyz/,highlight_xyz,1,5000,3,5000,3,0,3000
-41013,bacalhau,Bacalhau,https://bacalhau.org,BacalhauProject,1,12000,6,12000,6,0,2000
-578,ceramic,Ceramic,https://ceramic.network/,ceramicnetwork,5,17000,51,23000,22,2,2500
-36401,polybase,Polybase,https://polybase.xyz/,polybase_xyz,2,9984,74,10000,74,0,2500
-36089,spheron,Spheron,https://spheron.network,SpheronFdn,4,6500,21,11000,33,3,2500
-40574,dataverseos,DataverseOS,https://dataverse-os.com/,DataverseOS,1,2500,1,5000,3,0,2500
-41010,ipfs,IPFS,https://ipfs.tech/,IPFS,1,5000,4,5000,4,0,1250
-41012,libp2p,libp2p,https://libp2p.io/,libp2p,1,5001,3,5000,3,0,1667
-41027,consensus-lab,Consensus Lab,http://ipc.space/,ProtoResearch,1,5000,1,5000,1,0,5000
-41102,saturn,Saturn,https://saturn.tech,FilecoinSaturn,1,5001,3,5000,3,0,1667
-26426,nft-storage,nft.storage,https://nft.storage/,NFTdotStorage,2,8000,15,8000,15,1,600
-41015,estuary,Estuary,https://docs.filecoindata.tools/,https://twitter.com/FilecoinTools,1,3000,2,3000,2,0,1500
-31587,drand,drand,https://drand.love/,drand_loe,1,2001,3,2000,3,0,667
-1251,fission,Fission,https://fission.codes,FISSIONcodes,1,0,0,1000,1,0,null
-9,0xparc,0xPARC,https://0xparc.org/,0xparc,1,5000,3,5000,3,1,2500
-38823,lattice,Lattice,https://lattice.xyz/,latticexyz,1,5000,3,5000,3,1,2500
-36518,taiko,Taiko,https://taiko.xyz/,taikoxyz,2,22000,14,25000,15,1,3000
-2934,superfluid,Superfluid,https://superfluid.finance,@Superfluid_HQ,8,73453,181,91000,169,4,4000
-2689,secured-finance,Secured Finance,https://secured.finance,Secured_Fi,1,2000,1,5000,3,1,2000
-37835,bunzz,Bunzz,https://bunzz.dev,BunzzDev,1,5000,2,5000,2,1,2500
-38898,neth,NETH,https://#,nethnetwork,1,5000,3,5000,3,0,2000
-38902,reazon-holdings,Reazon Holdings,https://reazon.jp/,reazon_capital,1,5000,3,5000,3,0,3000
-1027,dune,Dune,https://dune.com,DuneAnalytics,3,21500,13,23000,13,0,2000
-1616,instadapp,Instadapp,https://instadapp.io,instadapp,1,0,0,10000,0,0,null
-1760,li-finance,Li.Finance,https://li.finance,lifiprotocol,1,7474,11,10000,23,0,2500
-25566,stackos,StackOS,https://stackos.io,null,1,6998,44,10000,44,1,1500
-3227,valist,Valist,https://valist.io,Valist_io,5,36722,155,36750,155,2,1000
-34407,etherspot,Etherspot,https://etherspot.io/,etherspot,1,1000,2,10000,2,0,500
-728,consensys,Consensys,https://www.infura.io/,infura_io,1,10000,5,10000,5,0,2000
-27361,cronos,Cronos,https://cronos.org,cronos_chain,3,25000,10,25000,10,3,6000
-1985,moonbeam,Moonbeam,https://moonbeam.network/,null,2,10000,4,10000,4,1,4000
-34392,router-protocol,Router Protocol,https://www.routerprotocol.com/,routerprotocol,1,5000,3,5000,3,1,2500
-31676,shardeum,Shardeum,https://shardeum.org/,shardeum,1,5000,3,5000,3,1,3000
-34393,starton,Starton,https://www.starton.io/,starton_io,1,700,7,5000,7,1,100
-34523,revise,Revise,https://revise.network/,revisenft,1,5000,3,5000,3,0,2500
-31229,ey,EY,https://blockchain.ey.com/,andrew_forman,2,5000,4,5000,4,0,1500
-33318,alluo,Alluo,https://alluo.com,null,1,9999,9,10000,9,0,2000
-6,0x,0x,https://0x.org,0xProject,2,12000,4,18000,4,0,5000
-3002,tellor,Tellor,https://tellor.io,wearetellor,4,12000,8,18000,11,3,3500
-31698,triangle,Triangle,https://www.triangleplatform.com/,triangleplatfrm,1,5000,5,5000,5,0,1000
-24237,findora,Findora,https://findora.org,Findora,2,7500,2,9000,2,1,5000
-1181,evmos,Evmos,https://evmos.org/,EvmosOrg,2,3250,2,9000,5,0,3000
-33849,pragma,Pragma,https://www.pragmaoracle.com,PragmaOracle,1,4400,6,5000,13,0,1000
-31638,midpoint,Midpoint,https://www.midpointapi.com/,MidpointLabs,1,5000,4,5000,4,0,2000
-24236,boba-network,Boba Network,https://boba.network/,bobanetwork,3,30000,11,34000,11,0,10000
-2391,pocket-network,Pocket Network,https://www.pokt.network/,null,3,27980,79,30000,79,0,5000
-202,apwine,APWine,https://www.apwine.fi/,null,4,19500,6,36000,7,2,5000
-2915,streamr-network,Streamr Network,https://streamr.network/,null,2,15000,8,15000,8,1,5000
-32956,klaytn-foundation,Klaytn Foundation,null,null,1,10000,3,10000,3,0,5000
-31230,autonomy,Autonomy,https://autonomynetwork.io and https://autonomy-network.gitbook.io/autonomy-docs/autonomy-network/products/autostation,AutonomyNetwork,1,5000,4,5000,4,1,1500
-31231,degate,DeGate,null,null,1,5000,3,5000,3,0,3000
-2231,openzeppelin,OpenZeppelin,https://openzeppelin.com,null,1,0,0,5000,0,0,null
-2601,ripio,Ripio,https://www.ripio.com/,ripioapp,1,3000,1,5000,1,0,3000
-33301,sygma,Sygma,https://buildwithsygma.com/,null,1,0,0,4000,0,0,null
-30140,aurora,Aurora,https://aurora.dev,auroraisnear,1,10000,3,10000,3,1,5000
-3363,yearn-finance,Yearn Finance,https://yearn.finance,null,4,18000,6,22000,10,2,5000
-44,abacus,Abacus,https://hyperlane.xyz,hyperlane_xyz,2,12000,5,15000,5,2,4000
-30141,debridge,deBridge,null,null,1,5000,3,5000,3,1,2500
-2177,oasis-labs,Oasis Labs,https://oasislabs.com,null,1,0,0,5000,0,1,null
-3210,unstoppable-domains,Unstoppable Domains,https://unstoppabledomains.com,null,2,5120,19,13000,31,2,1500
-30437,aut-protocol,Āut Protocol,https://aut.id,null,1,2000,2,5000,2,1,1500
-24238,spruce,Spruce,null,null,2,6000,7,7000,7,0,1500
-24229,dydx-grants,dYdX Grants,https://dydxgrants.com/,dydx_grants,4,18000,5,46000,8,1,5000
-29205,neume,neume,null,null,1,800,2,1000,2,1,500
-28230,sonr,Sonr,null,null,1,0,0,5000,0,1,null
-2389,poap,POAP,https://poap.xyz,null,2,7990,22,8000,22,1,3000
-28227,urbit,Urbit,null,null,1,0,0,4500,0,1,null
-24054,hyperdapp,Hyperdapp,null,null,1,2500,3,2500,3,1,1000
-24231,tatum,Tatum,https://tatum.io/,null,2,35000,28,35000,28,1,5000
-2230,opensea,OpenSea,https://opensea.io,opensea,1,10000,9,10000,6,1,4000
-24028,gnosis-safe,Gnosis Safe,null,safe,3,15000,8,22000,9,1,5000
-27526,bitdao,BitDAO,null,null,1,10000,5,10000,5,0,5000
-26756,apeworx,ApeWorX,null,null,1,7000,4,9500,4,0,3000
-2784,skynet-labs,Skynet Labs,https://siasky.net/,@SkynetLabs,3,24000,55,24000,55,0,4000
-1072,element-finance,Element Finance,https://element.fi,null,1,5000,3,5000,3,1,2500
-2949,swivel-finance,Swivel Finance,https://swivel.finance/,null,2,5000,3,9000,4,0,2500
-27593,blockchainspace,BlockchainSpace,null,null,1,0,0,5000,0,0,null
-27137,storj-inc,Storj Inc.,null,null,1,5000,3,5000,3,1,3000
-2509,radicle,Radicle,https://radicle.xyz/,null,3,4500,11,10000,12,1,3000
-27263,sperax,Sperax,null,null,1,0,0,2000,0,1,null
-22989,babylon-finance,Babylon Finance,null,null,1,0,0,10000,2,1,null
-25869,swing,Swing,null,null,1,0,0,8000,4,1,null
-25872,lyra,Lyra,null,null,1,0,0,8000,3,1,null
-25499,coinbase-wallet,Coinbase Wallet,null,null,1,0,0,8000,20,1,null
-25590,tempus-finance,Tempus Finance,null,null,2,0,0,16000,3,1,null
-24235,voltz,Voltz,null,null,2,6500,2,16000,5,1,4000
-2198,olympus-dao,Olympus DAO,https://www.olympusdao.finance/,null,1,0,0,8000,0,0,null
-295,badger-dao,Badger DAO,https://badger.finance,null,1,0,0,8000,5,1,null
-1870,matter-labs,Matter Labs,https://matterlabs.dev,null,2,0,0,12000,13,1,null
-3106,transak,Transak,https://transak.com,null,1,0,0,4000,16,1,null
-710,compound-labs,Compound Labs,https://compound.finance,null,1,0,0,4000,10,1,null
-2558,redstone,RedStone,https://redstone.finance/,null,1,0,0,4000,4,1,null
-25419,chainstack,Chainstack,null,null,1,0,0,4000,0,1,null
-2188,offchain-labs,Offchain Labs,https://offchainlabs.com,OffchainLabs,1,0,0,4000,2,1,null
-2072,nervos-network,Nervos Network,https://www.nervos.org/,null,1,0,0,3000,0,1,null
-26081,waku-connect,Waku Connect,null,null,1,0,0,3000,6,1,null
-26079,odos,Odos,http://app.odos.xyz,null,1,0,0,1000,1,1,null
-2778,skillwallet,SkillWallet,https://skillwallet.id/,null,1,2200,13,8000,3,0,2000
-24234,tribe-dao,Tribe DAO,null,null,1,7500,4,7500,4,0,2500
-22964,toucan,Toucan,null,null,2,11500,6,8000,6,0,4000
-156,ambire,Ambire,https://www.ambire.com/,null,1,0,0,4000,0,0,null
-417,blockdaemon,Blockdaemon,https://blockdaemon.com,null,1,0,0,4000,0,0,null
-1267,flux,Flux,https://www.fluxprotocol.org/,null,1,1200,1,4000,1,0,1200
-1347,gelato,Gelato,https://gelato.digital,null,2,8000,11,8000,11,0,1000
-22908,union-protocol,Union Protocol,null,null,1,2500,1,4000,1,0,2500
-2495,quiknode,Quiknode,https://www.quicknode.com/,null,1,0,0,2500,0,0,null
-1572,immutable,Immutable,https://immutable.com,null,1,16000,3,16000,3,0,10000
-22375,sequence,Sequence,https://sequence.info/,0xsequence,1,5813,21,6000,19,0,1500
-1990,moralis,Moralis,https://moralis.io,null,2,16000,12,16000,7,0,7000
-22366,quix,Quix,https://qx.app/,null,1,4000,8,4000,8,0,500
-2274,op-games,OP Games,https://www.outplaygames.com/,null,1,6000,3,4000,3,0,2000
-3264,visor-finance,Visor Finance,https://visor.finance,null,1,10500,8,8000,7,0,1500
-2202,omni-analytics-group,Omni Analytics Group,https://omnianalytics.io/,null,1,1000,1,4000,1,0,1000
-2412,polywrap,Polywrap,https://polywrap.io,null,1,4000,2,4000,2,0,2500
-302,balancer,Balancer,https://balancer.finance,null,1,12000,2,12000,3,0,8000
-2925,sublime-finance,Sublime Finance,https://sublime.finance,null,1,4000,1,12000,1,0,4000
-1143,ether-cards,Ether Cards,https://ether.cards,null,1,0,0,12000,2,0,null
-2527,rarible-protocol,Rarible Protocol,https://rarible.com,null,1,4000,4,12000,1,0,4000
-2304,paraswap,ParaSwap,https://paraswap.io,null,1,5000,3,8000,3,0,2500
-362,bitgo,BitGo,https://bitgo.com,null,1,3500,2,8000,2,0,2000
-1140,ethblockart,EthBlockArt,https://ethblock.art/,null,1,4096,1,8000,1,0,4096
-1110,enzyme,Enzyme,https://avantgarde.finance,null,1,6000,3,8000,3,0,3000
-719,conjure-finance,Conjure Finance,https://conjure.finance,null,1,5000,2,7500,2,0,2500
-32,88mph,88mph,https://88mph.app,null,1,3000,1,5000,1,0,3000
-1916,metis,Metis,https://www.metis.io/,null,1,0,0,4000,1,0,null
-3162,umbrella,Umbrella,https://www.umb.network/,null,1,4000,1,4000,1,0,4000
-2162,nucypher,NuCypher,https://www.nucypher.com/,null,1,4000,1,4000,1,0,4000
-2894,status-im,Status.im,https://status.im,null,1,4000,5,4000,5,0,800
-2561,reflexer-labs,Reflexer Labs,https://reflexer.finance/,null,1,4000,4,4000,4,0,1000
-1034,dxdao,DXdao,https://dxdao.eth.link/,null,1,0,0,4000,1,0,null
+id,uuid,slug,name,website,twitter,appearances,prize,prizeCount,advertisedPrize,advertisedPrizeCount,workshopCount,largestPrize
+11,if0ri,1inch,1inch,https://1inch.io/,1inch,16,481000,153,764500,219,2,12000
+55104,ky7kr,etherlink,Etherlink,https://www.etherlink.com/,etherlink,1,10000,3,10000,3,0,5000
+58188,7dhfm,stellar,Stellar,https://stellar.org/,StellarOrg,1,10000,3,10000,3,0,5000
+2063,5b69q,near,NEAR,https://near.org/,NEARProtocol,11,93000,47,96000,48,0,5000
+42702,dkzkp,layerzero,LayerZero,https://layerzero.network/,LayerZero_Core,9,135000,35,135000,35,0,13000
+29376,3zpxc,world,World,https://world.org,worldcoin,23,455649,717,446000,733,5,10000
+44228,1ijf8,oasis-protocol,Oasis Protocol,https://oasis.net,OasisProtocol,4,30000,14,34000,15,1,5000
+46224,qiqkw,zircuit,Zircuit,https://www.zircuit.com/,ZircuitL2,5,40000,21,40000,21,2,3500
+592,f8ku2,chainlink,Chainlink,https://chain.link/,chainlink,22,163000,149,168000,131,5,4000
+44575,2ugg8,flare-network,Flare Network,https://dev.flare.network/,FlareNetworks,4,40000,19,40000,19,1,7000
+1748,q7a12,ledger,Ledger,https://ledger.com,Ledger,4,27500,12,33750,12,1,5000
+42542,fjaae,flow-foundation,Flow Foundation,https://flow.com/,flow_blockchain,7,83500,54,88000,56,3,4000
+623,x3xey,circle,Circle,https://circle.com,circle,7,66500,36,70000,33,3,2500
+1103,bw7y9,ens,ENS,https://ens.domains,ensdomains,19,144985,199,147000,195,2,3500
+52174,vsbye,walrus,Walrus,https://www.walrus.xyz/,WalrusProtocol,2,20000,10,20000,10,1,2000
+3033,pfyco,the-graph,The Graph,https://thegraph.com,graphprotocol,28,187791,295,212050,283,10,3500
+55792,ipmya,self-protocol,Self Protocol,https://self.xyz/,selfprotocol,2,20000,9,20000,9,1,5000
+56852,pjq8a,artificial-superintelligence-alliance,Artificial Superintelligence Alliance,https://superintelligence.io/,ASI_Alliance,1,10000,3,10000,3,1,5000
+39732,bdi3h,hedera,Hedera,https://hedera.com/,hedera,6,54500,33,57000,34,0,4000
+42975,910t9,avail,Avail,https://www.availproject.org/,availproject,10,44000,51,61000,57,1,2500
+40316,ijybm,privy,Privy ,https://www.privy.io/,privy_io,9,31000,34,33500,34,3,2500
+51947,xy3ks,saga,Saga ,https://saga.xyz,Sagaxyz__,2,10000,6,10000,6,0,2500
+1441,ya99k,hardhat,Hardhat,https://hardhat.org/,HardhatHQ,2,5000,3,5000,3,0,1666.67
+36727,48dft,intmax,Intmax,https://intmax.io/intmax-developers_hub,intmaxIO,4,15000,7,15000,7,3,3000
+45113,yuvir,euler-labs,Euler Labs,https://www.euler.finance/,eulerfinance,2,10000,5,10000,5,0,3000
+36718,jzpj5,mantle,Mantle,https://www.mantle.xyz/,Mantle_Official,11,89500,125,90000,125,5,2500
+56283,1ob9r,ronin,Ronin,https://roninchain.com/,ronin_network,1,5000,3,5000,3,0,2500
+1147,362vt,ethereum-foundation,Ethereum Foundation,https://ethereum.foundation,ethereumfndn,13,109213,68,118213,68,3,4000
+51472,g8xu4,0g,0G,https://0g.ai ,0G_labs,2,5000,7,7500,8,1,1666.67
+57316,rpz6h,katana,katana,https://katana.network/,katana,1,3750,3,5000,3,0,1500
+1264,b2u1b,fluence,Fluence,https://fluence.network/,fluence_project,5,8500,10,34000,11,1,3000
+44337,8kguf,blockscout,Blockscout,https://www.blockscout.com/,blockscoutcom,4,64999,545,65000,545,0,3000
+46978,g7h9m,pyth-network,Pyth Network,https://pyth.network/,PythNetwork,5,53000,38,55000,40,1,4000
+53226,92qx9,vlayer-labs,vlayer Labs ,https://www.vlayer.xyz/,vlayer_xyz,2,20000,8,20000,8,2,4000
+49164,ggpyp,rootstock-labs,Rootstock Labs,https://rootstock.io/,rootstock_io,7,70000,27,70000,27,2,5000
+54479,5wcw4,yellow,Yellow,https://yellow.org,Yellow,1,10000,5,10000,5,1,4000
+48547,zyaqr,beraborrow,Beraborrow,https://www.beraborrow.com/,beraborrow,1,5000,2,5000,2,1,2500
+1640,9zj01,protocol-labs,Protocol Labs,https://www.plnetwork.io/,protocollabs,31,646759,513,781010,588,9,15000
+53954,dwrg7,nodit,Nodit,https://nodit.io/,NoditPlatform,1,10000,5,10000,5,1,3000
+2401,qy8m3,polygon,Polygon,https://polygon.technology/,0xPolygon,27,608269,742,634000,738,6,5000
+52430,6tfor,hashkey-chain,HashKey Chain,https://hsk.xyz,HashKeyHSK,1,10000,5,10000,5,1,3000
+32731,gt566,hyperlane,Hyperlane,https://www.hyperlane.xyz,hyperlane,16,153500,79,156000,73,3,4000
+571,inotq,celo,Celo,https://www.celo.org,celo,10,96500,96,100000,100,4,4000
+49197,0wyck,citrea,Citrea,https://citrea.xyz,citrea_xyz,1,10000,4,10000,4,1,3000
+825,5e2gc,curvegrid,Curvegrid,http://www.curvegrid.com,curvegridinc,5,18000,17,18000,17,3,3000
+31429,026zc,uniswap-foundation,Uniswap Foundation,https://www.uniswapfoundation.org,UniswapFND,16,218500,108,291000,112,3,6000
+55171,t2nc8,metal,Metal,https://metal.build/,metaldotbuild,1,5000,2,5000,2,1,4000
+1155,xdat5,ethglobal,ETHGlobal,https://ethglobal.com,ETHGlobal,1,1285000,535,37500,9,0,2500
+55135,rx0vc,recall,Recall,https://recall.network/,recallnet,1,0,3,5000,3,0,null
+2081,bk5qx,nethermind,Nethermind,https://www.nethermind.io/,NethermindEth,10,88000,62,93000,62,4,6000
+55211,a8pnr,aztec,Aztec,https://aztec.network/,aztecnetwork,1,0,2,2500,2,0,null
+51661,mz47w,brevis,Brevis,https://brevis.network/,brevis_zk,2,10000,8,12500,8,1,4000
+31546,96nbu,aleo,Aleo,https://www.aleo.org/,AleoHQ,3,13000,13,17500,9,2,3000
+40577,4prha,succinct,Succinct,https://Succinct.xyz,null,1,0,3,2500,3,0,null
+47319,0accc,nillion,Nillion,https://www.nillion.com/,nillionnetwork,6,30000,23,32500,23,2,3000
+50787,ojcfw,altlayer,AltLayer,https://www.altlayer.io/,null,1,0,3,2500,3,0,null
+36330,rpi4f,coinbase,Coinbase,https://coinbase.com/developer-platform,coinbasedev,6,50001,375,70500,407,1,5000
+55686,mv86d,t1-protocol,t1 Protocol,https://www.t1protocol.com/,t1protocol,1,0,2,2500,2,0,null
+55794,chrgb,zk-email,ZK Email,https://zk.email/,zkemail,1,0,4,2500,5,0,null
+1854,am855,marlin,Marlin,https://marlin.org,MarlinProtocol,2,5000,5,7500,5,1,2000
+54130,rjvrp,autonome,Autonome,https://www.autono.meme/,0xAutonome,1,20000,9,20000,9,1,4000
+34522,1bo7r,eigenlayer,EigenLayer,https://www.eigenlayer.com/,eigenlayer,1,20000,12,20000,12,0,1666.67
+54517,0bbsf,gaia-and-collab-land,Gaia and Collab.Land,https://gaianet.ai,GaiaNet_AI,1,10000,8,10000,8,1,2500
+206,spp1v,arbitrum,Arbitrum,https://arbitrum.io/,arbitrum,8,150000,387,150000,387,0,4000
+37396,h5ps8,base,Base,https://www.base.org/,base,11,120000,72,120000,72,1,4000
+51436,h8evx,warden-protocol,Warden Protocol,https://wardenprotocol.org/,wardenprotocol,1,0,0,5000,5,1,null
+763,f7o0p,covalent,Covalent,https://www.covalenthq.com/,Covalent_HQ,11,55050,236,58700,210,4,3000
+54307,k4yh0,opsec,OpSec,https://www.opsec.computer,OpSecCloud,1,5000,5,5000,5,1,1000
+1783,t4bwy,lit-protocol,Lit Protocol,https://litprotocol.com/,LitProtocol,14,74500,84,77000,84,7,5000
+54262,0c8h1,crestal-network,Crestal Network,https://www.crestal.network/,crestalnetwork,1,200,1,1000,3,0,200
+154,h8ioc,amazon-web-services-aws,Amazon Web Services (AWS),https://aws.amazon.com/web3,awscloud,1,1000,1,1000,1,1,1000
+49541,y6rde,coophive,CoopHive,https://www.coophive.network/,CoopHive,2,5000,5,6000,7,0,1250
+51516,z9n70,bitkub,Bitkub,https://www.bitkubcapital.com/,bitkubgroup,1,20000,6,20000,6,0,5000
+46802,w1nth,kinto,Kinto,https://kinto.xyz/,https://twitter.com/KintoXYZ,2,30000,13,30000,13,1,7500
+31225,yip67,scroll,Scroll,https://scroll.io,Scroll_ZKP,11,144775,838,145000,839,5,4000
+24230,6wi0d,mina-protocol,Mina Protocol,https://minaprotocol.com/,@MinaProtocol ,12,182989,76,186000,76,4,8000
+1163,qdgjh,sign-protocol,Sign Protocol,https://sign.global/,ethsign,5,94000,145,96000,145,1,4000
+42925,xrzks,dynamic,Dynamic,https://www.dynamic.xyz/,dynamic_xyz,7,53000,91,53000,91,1,2000
+41856,sct4c,chronicle-protocol,Chronicle Protocol,https://chroniclelabs.org/,ChronicleLabs,4,39500,58,39500,58,1,4500
+606,pj01t,chiliz,Chiliz,https://www.chiliz.com/developers/,Chiliz,4,60000,100,60000,100,3,4000
+1119,10a1v,push-protocol,Push Protocol,https://push.org,pushprotocol,16,120468,228,125000,231,7,4000
+31228,78tgi,cow-protocol,CoW Protocol,https://cow.fi/,CoWSwap,3,29400,17,29400,17,1,5000
+45759,eu794,inco-network,Inco Network,https://www.inco.org/,inconetwork,2,20000,10,20000,10,0,3000
+31645,0p5er,neon-evm,Neon EVM,https://neonevm.org/,Neon_EVM,8,50500,61,60000,66,1,3000
+31227,buucz,cartesi,Cartesi,https://cartesi.io/,cartesiproject,8,79000,31,80000,30,0,7000
+27595,nbyyv,xmtp,XMTP,https://xmtp.org/,xmtp_,14,105949,222,107400,221,2,2500
+41511,pk3b6,phala-network,Phala Network,https://phala.network/,PhalaNetwork,3,20000,11,20000,11,0,3000
+45112,7pft7,essential,Essential,https://blog.essential.builders/,intentessential,2,20000,5,20000,5,2,8000
+3089,zxd3n,web3auth,Web3Auth,https://web3auth.io,web3auth,6,51000,29,57500,30,2,7000
+52594,ci5d7,rome-protocol,Rome Protocol,https://www.rome.builders/,romeprotocol,1,10000,5,10000,5,0,3000
+335,ke9sy,biconomy,Biconomy,https://www.biconomy.io/,Biconomy,5,41498,51,41500,51,0,3000
+53025,m10i3,bitdsm,BitDSM,http://bitdsm.org,hammadtariq,1,7000,3,7000,3,0,3000
+40890,croq1,fhenix,Fhenix,https://www.fhenix.io/,FhenixIO,6,30000,20,30000,20,6,2500
+44597,t6u7f,arx,Arx,https://arx.org,arxresearch,2,10000,7,10000,7,2,2500
+1782,ffic2,liquity,Liquity,https://liquity.org,LiquityProtocol,1,5000,2,5000,2,0,4500
+48302,vy7pe,morph,Morph,https://www.morphl2.io/,MorphL2,6,35000,22,35000,22,3,3000
+1906,4pn9u,metamask-and-linea,MetaMask & Linea,https://metamask.io/,LineaBuild,11,105500,86,109000,88,7,3500
+2429,vggw5,powerloom,PowerLoom,https://powerloom.io,PowerLoomHQ,5,15500,12,32000,14,0,4000
+39733,e3t1p,nounsdao,NounsDAO,https://nouns.wtf/,nounsdao,5,25000,45,25000,15,1,2500
+1383,9xct6,gnosis,Gnosis,https://gnosis.io,null,1,4000,5,4000,5,0,1000
+40370,hoadp,axelar,Axelar,https://axelar.network/,axelar,4,19000,12,19000,12,1,3000
+37737,jxca4,blockless,Blockless,https://blockless.network/,theblockless,3,4000,6,4000,6,2,825
+52727,vsg6g,venn,Venn,https://venn.build/,VennBuild,1,1000,1,1000,1,0,1000
+543,5mkws,capsule,Capsule,https://usecapsule.com,usecapsule,1,1000,1,1000,1,0,1000
+52943,ina1c,kinode,Kinode,https://Kinode.org,Kinode,1,0,0,0,0,0,null
+53441,6hzdh,hyperbolic,Hyperbolic,https://hyperbolic.xyz/,hyperbolic_labs,1,1000,2,1000,2,0,500
+2774,t5on2,skale-network,SKALE Network,https://skale.space/,SkaleNetwork,6,108475,89,108000,89,1,5000
+42084,rhmm3,story,Story,https://www.story.foundation/,storyprotocol,1,20000,23,20000,23,1,2000
+49679,1kchc,airdao,AirDAO,https://airdao.io/,airdao_io,2,14000,6,40000,21,0,5000
+27264,9z8z1,gnosis-chain,Gnosis Chain,https://www.gnosis.io,gnosischain,16,161750,107,180000,113,6,8000
+41473,biwnb,unlimit,UNLIMIT,https://www.unlimit.com/,unlimit_crypto,4,35000,15,35000,15,0,6000
+120,vdiyd,alchemy,Alchemy,https://www.alchemy.com/,AlchemyPlatform,3,13000,8,16500,8,1,2500
+39303,8o6ne,delv,DELV,https://www.delv.tech/,delv_tech,2,10500,5,12000,6,1,3000
+42274,pe7wh,stackr,Stackr,https://www.stackrlabs.xyz/,null,2,6000,6,6000,6,0,1000
+24232,46q4i,reown,Reown,https://reown.com/,reown_,10,152500,146,162000,158,4,5000
+51958,fxknf,gaia,Gaia,https://www.gaianet.ai,Gaianet_AI,1,5000,3,5000,3,1,2500
+2121,i90pd,galadriel,Galadriel,https://www.galadriel.com/,Galadriel_AI,11,65815,317,67000,254,5,5000
+42016,z95d6,ssv-network,SSV Network,https://ssv.network/,ssv_network,2,5000,5,25000,10,1,2000
+3019,eov0f,tableland,Tableland,https://tableland.xyz/,tableland,7,32990,156,33000,142,3,2500
+31584,2guk4,dimo,DIMO,https://dimo.zone/,DIMO_Network,1,5000,5,5000,5,0,1000
+51244,ypbun,envio,Envio,https://envio.dev/,envio_indexer,1,5000,5,5000,5,1,1500
+2240,rmkrz,optimism,Optimism,https://optimism.io,optimism,12,211087,222,208500,226,2,8000
+49507,kkegz,superform,Superform,https://www.superform.xyz/,superformxyz,1,10000,4,10000,5,0,4000
+40466,992b8,ethereum-attestation-service,Ethereum Attestation Service,https://attest.sh,eas_eth,5,35000,23,35000,23,2,4000
+42909,4o3cq,conduit,Conduit,https://conduit.xyz/,conduitxyz,1,10000,3,10000,3,0,5000
+1298,3zz4k,fraxtal,Fraxtal,https://frax.com/,fraxfinance,1,10000,3,10000,3,0,5000
+50917,4uiut,metal-l2,Metal L2,https://metall2.com/,metal_L2,1,1000,1,10000,10,0,1000
+42848,0vx1d,mode,Mode,https://docs.mode.network/,modenetwork,2,15000,90,15000,90,0,2000
+3005,fn4k5,tenderly,Tenderly,https://tenderly.co/,TenderlyApp,3,15000,9,15000,9,1,2500
+40879,eirr9,goldsky,Goldsky,https://goldsky.com/,goldskyio,1,5000,3,5000,3,1,2500
+36210,3gx1k,thirdweb,thirdweb,https://thirdweb.com/,thirdweb,1,5000,2,5000,2,0,2500
+43787,2t2i9,farcaster,Farcaster,https://www.farcaster.xyz/,farcaster_xyz,1,5000,3,5000,3,0,2500
+40490,8z5mg,pancakeswap,PancakeSwap,https://pancakeswap.finance/,PancakeSwap,2,17500,7,23000,7,2,4000
+34391,weaax,safe,Safe,https://safe.global/,safe,11,105258,71,105000,68,1,3043
+33783,t3zyt,apecoin-foundation,ApeCoin Foundation,https://apecoin.com/,apecoin,12,120000,56,120000,56,0,3500
+3400,88fj5,zerion,Zerion,https://zerion.io,zerion,2,12000,5,14000,5,0,4000
+49472,6ow0m,gear-foundation,Gear Foundation,https://gear.foundation/,null,1,2500,3,5000,3,1,1500
+49431,wdteq,circles,Circles,https://www.aboutcircles.com/,aboutcircles,1,7000,3,4000,3,0,3000
+2888,4388j,starkware,StarkWare,https://starkware.co/,StarkWareLtd,4,69000,25,80000,27,3,10000
+43666,p7xo9,starknet-foundation,Starknet Foundation,https://www.starknet.org/,StarknetFndn,2,5000,3,30000,4,0,2500
+42345,frkz3,cartridge,Cartridge,https://cartridge.gg/,cartridge_gg,1,15000,7,15000,7,0,3333.33
+49779,qctg9,voyager,Voyager,https://voyager.online/,0xvoyageronline,1,6000,23,6000,23,0,260.87
+44691,f0wnx,token-flow,Token Flow,https://tokenflow.live/,_token_flow,1,3667,3,5000,5,0,1500
+37226,4hzt5,herodotus,Herodotus ,https://herodotus.dev/,HerodotusDev,1,3000,2,5000,3,0,1500
+213,9jtc3,argent,Argent,https://www.argent.xyz/,argentHQ,1,1000,2,3000,3,0,500
+31641,op7tb,mona,Mona,https://monaverse.com/,monaverse,4,15000,8,21000,14,1,5000
+49106,1assb,lilypad,Lilypad,https://docs.lilypad.tech/lilypad,Lilypad_tech,2,7100,6,7500,7,2,2500
+1526,v693n,huddle01,Huddle01,https://huddle01.com,huddle01com,6,21700,22,27000,25,2,2500
+40807,fimmp,squid-router,Squid Router,https://www.squidrouter.com/,null,1,5000,3,5000,3,0,2500
+34526,u0e0c,zondax,Zondax,https://zondax.ch/,_zondax_,2,6500,9,6500,9,1,2500
+45150,42b0f,weatherxm,WeatherXM,https://weatherxm.com/,WeatherXM,1,5000,3,5000,3,0,2500
+38847,0q1p4,fleek,Fleek,https://fleek.xyz/,fleek,1,500,22,5000,25,0,22.73
+593,nauwe,chainsafe,ChainSafe,https://chainsafe.io,ChainSafeth,3,1000,1,8000,6,1,1000
+49117,h24ko,dabl-club,dabl.club,https://www.dabl.club/,DablClub,1,5000,6,5000,6,0,1250
+41880,y9b9g,openmesh,Openmesh,https://www.openmesh.network/,OpenmeshNetwork,1,1000,1,2500,3,0,1000
+37832,axdu9,risc-zero,RISC Zero,https://www.risczero.com/,https://twitter.com/RiscZero,2,14000,14,15000,15,2,2000
+47778,fk9gm,witness,Witness,https://Witness.co,WitnessCo_,1,1000,2,1000,2,0,500
+2364,5neyp,pinata,Pinata,https://www.pinata.cloud/,pinatacloud,2,14000,5,14000,5,0,5000
+48293,uv3bb,bountycaster,Bountycaster,https://www.bountycaster.xyz/,bountycaster,1,0,0,0,0,0,null
+1788,mdb6w,livepeer,Livepeer,https://livepeer.org,Livepeer,15,153900,88,125000,74,4,6000
+48354,zerib,frames-js,frames.js,https://framesjs.org/,frames_js,1,4269,3,4269,3,0,2048
+36098,fb98y,airstack,Airstack,https://www.airstack.xyz/,airstack_xyz,7,63500,48,63500,50,0,3000
+48656,4v3qj,karma3labs,Karma3Labs,https://karma3labs.com,karma3labs,1,3500,7,3500,7,0,500
+44251,xhtti,neynar,Neynar,https://neynar.com,neynarxyz,1,0,0,0,0,0,null
+288,nhs1x,aztec-labs,Aztec Labs,https://aztec.network,aztecnetwork,6,48000,23,49000,22,4,7500
+1255,mba9h,flashbots,Flashbots,https://flashbots.net,flashbotsmev,4,22500,19,25000,21,2,2500
+43320,hcd86,morpho-labs,Morpho Labs,https://morpho.org/,@MorphoLabs,1,1000,1,1000,1,0,1000
+1647,cycii,ironfish,Ironfish,https://ironfish.network/,ironfishcrypto,1,5000,3,5000,3,0,1666.67
+44716,h0nyy,sindri,Sindri,https://www.sindri.app/,SindriLabs,1,5000,4,5000,4,1,2000
+36842,pxs8d,privacy-and-scaling-exploration,Privacy and Scaling Exploration,https://pse.dev/,privacyscaling,1,5000,5,5000,5,0,1000
+41,0w2pp,aave,Aave,https://aave.com/,aave,1,50000,16,50000,16,0,10000
+47007,831ya,family,Family,https://family.co/,family,1,5000,64,5000,64,0,78.13
+41506,mraad,xdc-network,XDC Network,https://xinfin.org,XinFin_Official,4,38200,19,40000,21,2,4500
+45117,pyhsm,waku,Waku,https://waku.org/,Waku_org,2,20000,14,20000,14,0,4000
+34521,i27s1,okto,Okto,https://okto.tech,okto_app,2,10000,6,10000,6,1,3000
+895,8hucp,alliance,Alliance,https://alliance.xyz/,alliancedao,2,10000,6,10000,6,2,5000
+40914,c5jvk,okx,OKX,https://www.okx.com/web3,okxweb3,1,5000,3,5000,3,1,3000
+40326,szsmr,zetachain,ZetaChain,https://www.zetachain.com/,zetablockchain,2,15000,6,15000,6,1,5000
+22933,x2bo0,lighthouse,Lighthouse,https://www.lighthouse.storage/,@LighthouseWeb3,4,30000,19,10000,9,1,2500
+1844,t4tb4,spark,Spark,https://spark.fi/,sparkdotfi,6,57000,25,77000,26,2,5000
+23281,vxwti,lens-protocol,Lens Protocol,https://lens.xyz/,LensProtocol,13,242000,132,222000,132,6,25000
+36437,y24y0,zksync,ZKsync,https://zksync.io/,zksync,3,21000,9,25000,9,1,5000
+42,oiv32,aave-grants-dao,Aave Grants DAO,https://aavegrants.org/,aavegrants,10,99000,47,128000,47,3,7500
+3161,fp1x1,uma,UMA,https://umaproject.org,UMAprotocol,15,131000,109,136000,111,6,6000
+41534,1do5k,axiom,Axiom,https://www.axiom.xyz/,axiom_xyz,2,20000,10,20000,10,0,5000
+186,aa2tg,api3,API3,https://api3.org/,API3DAO,1,10000,5,10000,5,1,4000
+31632,pn953,mask-network,Mask Network,https://mask.io/,realMaskNetwork,4,30800,19,39000,23,0,3000
+24233,ta05h,gearbox-protocol,Gearbox Protocol,https://gearbox.fi/,GearboxProtocol,3,25000,9,33000,10,1,7000
+570,oreks,celestia,Celestia,https://celestia.org/developer-portal/,CelestiaOrg,1,5500,5,8000,5,0,2000
+31696,3uuu9,threshold,Threshold,https://threshold.network/,TheTNetwork,1,5000,4,5000,4,0,1250
+33404,btkw6,certora,Certora,https://www.certora.com/,certorainc,1,5000,3,5000,3,0,2500
+3171,79zf4,unicef,UNICEF,https://www.unicef.org/innovation/,unicefinnovate,1,4000,1,4000,1,0,4000
+42903,v9u3u,wormhole,Wormhole,https://wormhole.com/,wormholecrypto,1,10000,3,10000,3,1,6000
+2770,4i0qt,sismo,Sismo,https://sismo.io/,Sismo_eth,7,40000,27,45000,27,3,3000
+723,ygz83,connext,Connext,https://connext.network,connextnetwork,7,33600,48,47000,50,4,5000
+709,j5u2x,compound-grants,Compound Grants,https://questbook.app,compoundgrants,4,27000,16,27000,16,3,5000
+43822,u7k8j,cometh-io,Cometh.io,https://cometh.io/,@Cometh,1,5000,3,5000,3,1,3000
+31690,tbjsr,sunscreen,Sunscreen,https://sunscreen.tech/,sunscreentech,1,3250,3,5000,4,1,1250
+25500,jywri,quicknode,QuickNode,https://www.quicknode.com/,https://twitter.com/quicknode,8,36000,35,38000,135,5,2500
+31475,u7kt2,fuel,Fuel,https://fuel.network,fuel_network,5,19500,8,33000,14,3,5000
+3209,r9t85,unlock-protocol,Unlock Protocol,https://unlock-protocol.com,unlockprotocol,6,28000,54,29000,18,4,3000
+3413,f2so0,zora,Zora,https://ourzora.com,ourZora,2,24000,32,24000,13,0,2000
+34426,2x9jd,zkbob,zkBob,https://www.zkbob.com/,zkBob_,4,40000,36,40000,34,0,5000
+204,sqmih,aragon,Aragon,https://aragon.org/,aragonproject,1,5000,2,5000,2,0,2500
+31582,y4cxw,dfns,Dfns,https://www.dfns.co/,dfnsHQ,1,5000,5,5000,6,1,2000
+2489,2mig9,quantstamp,Quantstamp,https://quantstamp.com/,Quantstamp,2,10000,4,10000,4,0,2500
+40332,814vz,unsheth-xyz,unshETH.xyz,https://unsheth.xyz,unsheth_xyz,1,4000,2,5000,3,0,3000
+1487,9xedj,highlight,Highlight,https://highlight.xyz/,highlight_xyz,1,5000,3,5000,3,0,3000
+41013,4hh1n,bacalhau,Bacalhau,https://bacalhau.org,BacalhauProject,1,12000,6,12000,6,0,2000
+578,96pd9,ceramic,Ceramic,https://ceramic.network/,ceramicnetwork,5,17000,51,23000,22,2,2500
+36401,hp48a,polybase,Polybase,https://polybase.xyz/,polybase_xyz,2,9984,74,10000,74,0,2500
+36089,omyxt,spheron,Spheron,https://spheron.network,SpheronFdn,4,6500,21,11000,33,3,2500
+40574,op6xo,dataverseos,DataverseOS,https://dataverse-os.com/,DataverseOS,1,2500,1,5000,3,0,2500
+41010,uorta,ipfs,IPFS,https://ipfs.tech/,IPFS,1,5000,4,5000,4,0,1250
+41012,mi9fg,libp2p,libp2p,https://libp2p.io/,libp2p,1,5001,3,5000,3,0,1667
+41027,j5c6h,consensus-lab,Consensus Lab,http://ipc.space/,ProtoResearch,1,5000,1,5000,1,0,5000
+41102,jwenb,saturn,Saturn,https://saturn.tech,FilecoinSaturn,1,5001,3,5000,3,0,1667
+26426,4jgzz,nft-storage,nft.storage,https://nft.storage/,NFTdotStorage,2,8000,15,8000,15,1,600
+41015,nsgxy,estuary,Estuary,https://docs.filecoindata.tools/,https://twitter.com/FilecoinTools,1,3000,2,3000,2,0,1500
+31587,o1uf7,drand,drand,https://drand.love/,drand_loe,1,2001,3,2000,3,0,667
+1251,1j8vt,fission,Fission,https://fission.codes,FISSIONcodes,1,0,0,1000,1,0,null
+9,s184f,0xparc,0xPARC,https://0xparc.org/,0xparc,1,5000,3,5000,3,1,2500
+38823,qp08u,lattice,Lattice,https://lattice.xyz/,latticexyz,1,5000,3,5000,3,1,2500
+36518,qfmej,taiko,Taiko,https://taiko.xyz/,taikoxyz,2,22000,14,25000,15,1,3000
+2934,x59d1,superfluid,Superfluid,https://superfluid.finance,@Superfluid_HQ,8,73453,181,91000,169,4,4000
+2689,k3g5g,secured-finance,Secured Finance,https://secured.finance,Secured_Fi,1,2000,1,5000,3,1,2000
+37835,ri4uk,bunzz,Bunzz,https://bunzz.dev,BunzzDev,1,5000,2,5000,2,1,2500
+38898,9q77n,neth,NETH,https://#,nethnetwork,1,5000,3,5000,3,0,2000
+38902,bht2g,reazon-holdings,Reazon Holdings,https://reazon.jp/,reazon_capital,1,5000,3,5000,3,0,3000
+1027,juzwo,dune,Dune,https://dune.com,DuneAnalytics,3,21500,13,23000,13,0,2000
+1616,2mwd4,instadapp,Instadapp,https://instadapp.io,instadapp,1,0,0,10000,0,0,null
+1760,1nz66,li-finance,Li.Finance,https://li.finance,lifiprotocol,1,7474,11,10000,23,0,2500
+25566,enkg5,stackos,StackOS,https://stackos.io,null,1,6998,44,10000,44,1,1500
+3227,xefox,valist,Valist,https://valist.io,Valist_io,5,36722,155,36750,155,2,1000
+34407,wuc6g,etherspot,Etherspot,https://etherspot.io/,etherspot,1,1000,2,10000,2,0,500
+728,m46sz,consensys,Consensys,https://www.infura.io/,infura_io,1,10000,5,10000,5,0,2000
+27361,26gjy,cronos,Cronos,https://cronos.org,cronos_chain,3,25000,10,25000,10,3,6000
+1985,6absf,moonbeam,Moonbeam,https://moonbeam.network/,null,2,10000,4,10000,4,1,4000
+34392,wb7qe,router-protocol,Router Protocol,https://www.routerprotocol.com/,routerprotocol,1,5000,3,5000,3,1,2500
+31676,06qyw,shardeum,Shardeum,https://shardeum.org/,shardeum,1,5000,3,5000,3,1,3000
+34393,jkakt,starton,Starton,https://www.starton.io/,starton_io,1,700,7,5000,7,1,100
+34523,iydyv,revise,Revise,https://revise.network/,revisenft,1,5000,3,5000,3,0,2500
+31229,vsqgj,ey,EY,https://blockchain.ey.com/,andrew_forman,2,5000,4,5000,4,0,1500
+33318,3pgwq,alluo,Alluo,https://alluo.com,null,1,9999,9,10000,9,0,2000
+6,8un5e,0x,0x,https://0x.org,0xProject,2,12000,4,18000,4,0,5000
+3002,x6m3m,tellor,Tellor,https://tellor.io,wearetellor,4,12000,8,18000,11,3,3500
+31698,g3uvh,triangle,Triangle,https://www.triangleplatform.com/,triangleplatfrm,1,5000,5,5000,5,0,1000
+24237,i6xez,findora,Findora,https://findora.org,Findora,2,7500,2,9000,2,1,5000
+1181,j61b3,evmos,Evmos,https://evmos.org/,EvmosOrg,2,3250,2,9000,5,0,3000
+33849,xf84v,pragma,Pragma,https://www.pragmaoracle.com,PragmaOracle,1,4400,6,5000,13,0,1000
+31638,na4kb,midpoint,Midpoint,https://www.midpointapi.com/,MidpointLabs,1,5000,4,5000,4,0,2000
+24236,mnb9g,boba-network,Boba Network,https://boba.network/,bobanetwork,3,30000,11,34000,11,0,10000
+2391,vr4u8,pocket-network,Pocket Network,https://www.pokt.network/,null,3,27980,79,30000,79,0,5000
+202,d09ed,apwine,APWine,https://www.apwine.fi/,null,4,19500,6,36000,7,2,5000
+2915,szht8,streamr-network,Streamr Network,https://streamr.network/,null,2,15000,8,15000,8,1,5000
+32956,43ago,klaytn-foundation,Klaytn Foundation,null,null,1,10000,3,10000,3,0,5000
+31230,fuytu,autonomy,Autonomy,https://autonomynetwork.io and https://autonomy-network.gitbook.io/autonomy-docs/autonomy-network/products/autostation,AutonomyNetwork,1,5000,4,5000,4,1,1500
+31231,rpgqw,degate,DeGate,null,null,1,5000,3,5000,3,0,3000
+2231,a5cjt,openzeppelin,OpenZeppelin,https://openzeppelin.com,null,1,0,0,5000,0,0,null
+2601,acypq,ripio,Ripio,https://www.ripio.com/,ripioapp,1,3000,1,5000,1,0,3000
+33301,28j05,sygma,Sygma,https://buildwithsygma.com/,null,1,0,0,4000,0,0,null
+30140,tw4pe,aurora,Aurora,https://aurora.dev,auroraisnear,1,10000,3,10000,3,1,5000
+3363,zhkg5,yearn-finance,Yearn Finance,https://yearn.finance,null,4,18000,6,22000,10,2,5000
+44,0ndp2,abacus,Abacus,https://hyperlane.xyz,hyperlane_xyz,2,12000,5,15000,5,2,4000
+30141,q0m99,debridge,deBridge,null,null,1,5000,3,5000,3,1,2500
+2177,ix6zs,oasis-labs,Oasis Labs,https://oasislabs.com,null,1,0,0,5000,0,1,null
+3210,4fmxr,unstoppable-domains,Unstoppable Domains,https://unstoppabledomains.com,null,2,5120,19,13000,31,2,1500
+30437,nvm59,aut-protocol,Āut Protocol,https://aut.id,null,1,2000,2,5000,2,1,1500
+24238,x566a,spruce,Spruce,null,null,2,6000,7,7000,7,0,1500
+24229,zjspv,dydx-grants,dYdX Grants,https://dydxgrants.com/,dydx_grants,4,18000,5,46000,8,1,5000
+29205,av8vu,neume,neume,null,null,1,800,2,1000,2,1,500
+28230,gjfyv,sonr,Sonr,null,null,1,0,0,5000,0,1,null
+2389,8i5pu,poap,POAP,https://poap.xyz,null,2,7990,22,8000,22,1,3000
+28227,ds9f2,urbit,Urbit,null,null,1,0,0,4500,0,1,null
+24054,u87dc,hyperdapp,Hyperdapp,null,null,1,2500,3,2500,3,1,1000
+24231,fbyii,tatum,Tatum,https://tatum.io/,null,2,35000,28,35000,28,1,5000
+2230,e8ob5,opensea,OpenSea,https://opensea.io,opensea,1,10000,9,10000,6,1,4000
+24028,2gzxu,gnosis-safe,Gnosis Safe,null,safe,3,15000,8,22000,9,1,5000
+27526,493ck,bitdao,BitDAO,null,null,1,10000,5,10000,5,0,5000
+26756,mj2m9,apeworx,ApeWorX,null,null,1,7000,4,9500,4,0,3000
+2784,2zqzn,skynet-labs,Skynet Labs,https://siasky.net/,@SkynetLabs,3,24000,55,24000,55,0,4000
+1072,si7bt,element-finance,Element Finance,https://element.fi,null,1,5000,3,5000,3,1,2500
+2949,2ixf3,swivel-finance,Swivel Finance,https://swivel.finance/,null,2,5000,3,9000,4,0,2500
+27593,fdi7n,blockchainspace,BlockchainSpace,null,null,1,0,0,5000,0,0,null
+27137,kpdra,storj-inc,Storj Inc.,null,null,1,5000,3,5000,3,1,3000
+2509,oa4ef,radicle,Radicle,https://radicle.xyz/,null,3,4500,11,10000,12,1,3000
+27263,z6xtm,sperax,Sperax,null,null,1,0,0,2000,0,1,null
+22989,tas41,babylon-finance,Babylon Finance,null,null,1,0,0,10000,2,1,null
+25869,h7vnu,swing,Swing,null,null,1,0,0,8000,4,1,null
+25872,8z2r3,lyra,Lyra,null,null,1,0,0,8000,3,1,null
+25499,627xv,coinbase-wallet,Coinbase Wallet,null,null,1,0,0,8000,20,1,null
+25590,56mgy,tempus-finance,Tempus Finance,null,null,2,0,0,16000,3,1,null
+24235,r3g5r,voltz,Voltz,null,null,2,6500,2,16000,5,1,4000
+2198,k3heg,olympus-dao,Olympus DAO,https://www.olympusdao.finance/,null,1,0,0,8000,0,0,null
+295,tvdhw,badger-dao,Badger DAO,https://badger.finance,null,1,0,0,8000,5,1,null
+1870,45mjv,matter-labs,Matter Labs,https://matterlabs.dev,null,2,0,0,12000,13,1,null
+3106,ng24o,transak,Transak,https://transak.com,null,1,0,0,4000,16,1,null
+710,b2b96,compound-labs,Compound Labs,https://compound.finance,null,1,0,0,4000,10,1,null
+2558,j2pyt,redstone,RedStone,https://redstone.finance/,null,1,0,0,4000,4,1,null
+25419,2aw7t,chainstack,Chainstack,null,null,1,0,0,4000,0,1,null
+2188,m4qdd,offchain-labs,Offchain Labs,https://offchainlabs.com,OffchainLabs,1,0,0,4000,2,1,null
+2072,rz1bb,nervos-network,Nervos Network,https://www.nervos.org/,null,1,0,0,3000,0,1,null
+26081,k6c46,waku-connect,Waku Connect,null,null,1,0,0,3000,6,1,null
+26079,h5r03,odos,Odos,http://app.odos.xyz,null,1,0,0,1000,1,1,null
+2778,rki5z,skillwallet,SkillWallet,https://skillwallet.id/,null,1,2200,13,8000,3,0,2000
+24234,mt1md,tribe-dao,Tribe DAO,null,null,1,7500,4,7500,4,0,2500
+22964,my3b7,toucan,Toucan,null,null,2,11500,6,8000,6,0,4000
+156,opsa4,ambire,Ambire,https://www.ambire.com/,null,1,0,0,4000,0,0,null
+417,jm5o9,blockdaemon,Blockdaemon,https://blockdaemon.com,null,1,0,0,4000,0,0,null
+1267,1pyem,flux,Flux,https://www.fluxprotocol.org/,null,1,1200,1,4000,1,0,1200
+1347,0k3eo,gelato,Gelato,https://gelato.digital,null,2,8000,11,8000,11,0,1000
+22908,owr9j,union-protocol,Union Protocol,null,null,1,2500,1,4000,1,0,2500
+2495,wsmc2,quiknode,Quiknode,https://www.quicknode.com/,null,1,0,0,2500,0,0,null
+1572,ryn0r,immutable,Immutable,https://immutable.com,null,1,16000,3,16000,3,0,10000
+22375,uyxnw,sequence,Sequence,https://sequence.info/,0xsequence,1,5813,21,6000,19,0,1500
+1990,yrwii,moralis,Moralis,https://moralis.io,null,2,16000,12,16000,7,0,7000
+22366,3wes0,quix,Quix,https://qx.app/,null,1,4000,8,4000,8,0,500
+2274,w9gtd,op-games,OP Games,https://www.outplaygames.com/,null,1,6000,3,4000,3,0,2000
+3264,6g24q,visor-finance,Visor Finance,https://visor.finance,null,1,10500,8,8000,7,0,1500
+2202,7go1p,omni-analytics-group,Omni Analytics Group,https://omnianalytics.io/,null,1,1000,1,4000,1,0,1000
+2412,w1xgi,polywrap,Polywrap,https://polywrap.io,null,1,4000,2,4000,2,0,2500
+302,9ysqe,balancer,Balancer,https://balancer.finance,null,1,12000,2,12000,3,0,8000
+2925,24ige,sublime-finance,Sublime Finance,https://sublime.finance,null,1,4000,1,12000,1,0,4000
+1143,9r57h,ether-cards,Ether Cards,https://ether.cards,null,1,0,0,12000,2,0,null
+2527,k3j5f,rarible-protocol,Rarible Protocol,https://rarible.com,null,1,4000,4,12000,1,0,4000
+2304,gs0z1,paraswap,ParaSwap,https://paraswap.io,null,1,5000,3,8000,3,0,2500
+362,5dgqn,bitgo,BitGo,https://bitgo.com,null,1,3500,2,8000,2,0,2000
+1140,s3s6e,ethblockart,EthBlockArt,https://ethblock.art/,null,1,4096,1,8000,1,0,4096
+1110,mwuyw,enzyme,Enzyme,https://avantgarde.finance,null,1,6000,3,8000,3,0,3000
+719,s91kj,conjure-finance,Conjure Finance,https://conjure.finance,null,1,5000,2,7500,2,0,2500
+32,jkorc,88mph,88mph,https://88mph.app,null,1,3000,1,5000,1,0,3000
+1916,q7yb2,metis,Metis,https://www.metis.io/,null,1,0,0,4000,1,0,null
+3162,mym1p,umbrella,Umbrella,https://www.umb.network/,null,1,4000,1,4000,1,0,4000
+2162,7z88g,nucypher,NuCypher,https://www.nucypher.com/,null,1,4000,1,4000,1,0,4000
+2894,jcyjn,status-im,Status.im,https://status.im,null,1,4000,5,4000,5,0,800
+2561,0tx58,reflexer-labs,Reflexer Labs,https://reflexer.finance/,null,1,4000,4,4000,4,0,1000
+1034,zx38j,dxdao,DXdao,https://dxdao.eth.link/,null,1,0,0,4000,1,0,null
